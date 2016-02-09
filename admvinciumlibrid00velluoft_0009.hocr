@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "admvinciumlibrid00velluoft_0009.png"; bbox 0 0 1799 2864; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 193 1091 1507 1144">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 193 1091 1507 1144">
+     <span class='ocr_line' id='line_1_1' title="bbox 193 1091 1507 1144; baseline -0.004 -2"><span class='ocrx_word' id='word_1_1' title='bbox 193 1096 609 1144; x_wconf 74' lang='lat' dir='ltr'>FRANCISCO</span> <span class='ocrx_word' id='word_1_2' title='bbox 652 1095 977 1142; x_wconf 85' lang='lat' dir='ltr'>IOHANNI</span> <span class='ocrx_word' id='word_1_3' title='bbox 1021 1091 1507 1141; x_wconf 72' lang='lat' dir='ltr'>HAVERFIELD</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 486 1227 1212 1402">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 486 1227 1212 1402">
+     <span class='ocr_line' id='line_1_2' title="bbox 486 1227 1212 1269; baseline -0.004 0"><span class='ocrx_word' id='word_1_4' title='bbox 486 1230 638 1269; x_wconf 78' lang='lat' dir='ltr'>VIRO</span> <span class='ocrx_word' id='word_1_5' title='bbox 703 1229 755 1269; x_wconf 85' lang='grc' dir='ltr'>ΙΝ</span> <span class='ocrx_word' id='word_1_6' title='bbox 819 1228 911 1269; x_wconf 83' lang='lat' dir='ltr'>HIS</span> <span class='ocrx_word' id='word_1_7' title='bbox 969 1227 1212 1268; x_wconf 80' lang='lat' dir='ltr'>STUDllS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 570 1362 1131 1402; baseline -0.002 0"><span class='ocrx_word' id='word_1_8' title='bbox 570 1362 1131 1402; x_wconf 77' lang='lat' dir='ltr'>EXERCITATISSIMO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 598 1495 1104 1535">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 598 1495 1104 1535">
+     <span class='ocr_line' id='line_1_4' title="bbox 598 1495 1104 1535; baseline 0.004 -2"><span class='ocrx_word' id='word_1_9' title='bbox 598 1495 723 1534; x_wconf 77' lang='lat' dir='ltr'>HOC</span> <span class='ocrx_word' id='word_1_10' title='bbox 765 1495 1056 1535; x_wconf 78' lang='lat' dir='ltr'>OPVSCVLV</span> <span class='ocrx_word' id='word_1_11' title='bbox 1066 1495 1104 1534; x_wconf 81' lang='lat' dir='ltr'><em>M</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 739 1639 983 1678">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 739 1639 983 1678">
+     <span class='ocr_line' id='line_1_5' title="bbox 739 1639 983 1678; baseline 0.004 -1"><span class='ocrx_word' id='word_1_12' title='bbox 739 1639 983 1678; x_wconf 74' lang='lat' dir='ltr'>DlCATVR</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
